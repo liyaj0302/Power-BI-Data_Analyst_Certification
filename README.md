@@ -18,7 +18,7 @@ This repository contains my official completion certificate for the **Learn Powe
 
 ## 🖼️ Certificate Preview
 
-![Power BI Certificate](LIYA%20JOSEPH_BI.jpg)
+C:\Users\HP\OneDrive\Desktop\LIYA JOSEPH_BI.jpg
 
 ---
 
