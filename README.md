@@ -1,5 +1,4 @@
-# Power-BI-Data_Analyst_Certification
-Certification in Learn Power BI to Become a Data Analyst from WsCube Tech.
+
 # Learn Power BI to Become a Data Analyst - Certification
 
 This repository contains my official completion certificate for the **Learn Power BI to Become a Data Analyst** course by **WsCube Tech**.
