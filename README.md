@@ -1,4 +1,3 @@
-
 # Learn Power BI to Become a Data Analyst - Certification
 
 This repository contains my official completion certificate for the **Learn Power BI to Become a Data Analyst** course by **WsCube Tech**.
@@ -17,7 +16,7 @@ This repository contains my official completion certificate for the **Learn Powe
 
 ## 🖼️ Certificate Preview
 
-C:\Users\HP\OneDrive\Desktop\LIYA JOSEPH_BI.jpg
+![Power BI Certificate](LIYA_JOSEPH_BI.jpg)
 
 ---
 
@@ -27,3 +26,4 @@ C:\Users\HP\OneDrive\Desktop\LIYA JOSEPH_BI.jpg
 * Building Dynamic Dashboards & Reports
 * Data Transformation & DAX Formulas
 * End-to-End Data Analysis Workflows
+
